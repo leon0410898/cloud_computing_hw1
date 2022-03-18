@@ -1,4 +1,5 @@
 ### You can choose jupyter notebook file or python file both are avaliabe.
+### you should place all data under audios/clips
 * For jupyter notebook just simplely run hw1.ipynb
 * For python file run main.py file: 
   ```
